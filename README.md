@@ -13,6 +13,9 @@ Crear empresas que arreglen problemas reales.
 #Programas
 
 Biblioteca de objetos libres
+
 Espacio abierto de educacion alternativa.
+
 Criptomonedas para registrar acciones.
+
 
