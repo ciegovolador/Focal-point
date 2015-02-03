@@ -4,11 +4,11 @@ Focal point is the option more likely to be chosen by the players because it see
 
 #Mision
 
-#Dar acceso a la innovacion tecnologica y social.
+Dar acceso a la innovacion tecnologica y social.
 
 #Estrategia.
 
-#Crear empresas que arreglen problemas reales.
+Crear empresas que arreglen problemas reales.
 
 #Programas
 
