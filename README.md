@@ -7,6 +7,7 @@ Los puntos focales son la opcion que tienden a elegir los participantes porque l
 #Mision
 
 Share resources to empower comunities.
+
 Compartir recursos para empoderar comunidades.
 
 #Estrategia.
