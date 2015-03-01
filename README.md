@@ -18,9 +18,7 @@ Crear espacios fisicos y virtuales para compartir recursos fisicos e virtuales.
 
 Biblioteca de objetos libres
 
-Espacio abierto de educacion alternativa.
-
-Programa de Marketing multinivel. 
+Espacio abierto trabajo y aprendisaje 
 
 Plataformas web correspondientes.
 
